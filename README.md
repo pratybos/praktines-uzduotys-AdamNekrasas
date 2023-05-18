@@ -1,4 +1,3 @@
-Pavyzdinis šablonas aprašant git repozitoriją. Visi studentai privalo aprašyti vadovaujantis žemiau pateiktu pavyzdžiu.<br/>
 **Adam Nekrašas, PI22B<br/>
 Konsolinis Nuotykių-quest žaidimas "Paladino Nuotykiai"<br/>**
 Žaidimo taisyklės ir detalus aprašas:
